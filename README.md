@@ -1,2 +1,2 @@
-# predict_sales_revenue
-Simple &amp; Multiple Linear Regressions and Model Evaluations
+# Predict_Sales_Revenue
+Simple Linear Regression | Multiple Linear Regression | Model Evaluation
